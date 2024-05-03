@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Shopping",
+        "description": "Eggs, Milk, Bread",
+        "state": 1,
+        "index": 0
+    },
+    {
+        "name": "Dentist",
+        "description": "Monday 13.5, 10:00",
+        "state": 0,
+        "index": 1
+    }
+]

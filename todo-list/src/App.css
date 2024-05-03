@@ -1,0 +1,38 @@
+.data-result {
+  color: grey;
+  text-align: center;
+  font-size: 30px;
+  margin-top: 20px;
+}
+
+.new-line {
+  white-space: pre-line;
+  height: 35px;
+}
+/* List elements */
+.list_element-div {
+  border: 1px solid rgb(168, 167, 180);
+  border-radius: 4px;
+  margin-bottom: 5px;
+}
+
+.list_element-div-content {
+  padding: 15px;
+}
+
+.list_element-controller {
+  text-align: right;
+}
+
+/* Colors */
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
+
+.white {
+  color: white
+}
